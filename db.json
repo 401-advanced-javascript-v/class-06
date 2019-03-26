@@ -1,0 +1,19 @@
+{
+  "categories": [
+    {
+      "id": 2,
+      "name": "Transportation",
+      "display_name": "Vehicle",
+      "description": "Means of transportation"
+    }
+  ],
+  "products": [
+    {
+      "id": 2,
+      "category": "Transportation",
+      "name": "HONDA",
+      "display_name": "Car",
+      "description": "car easy to drive"
+    }
+  ]
+}
